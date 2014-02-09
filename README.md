@@ -12,20 +12,25 @@ quote. we said >hi there.
 
 Italic *Italic*, bold **bold**, strike ~~strike~~
 
-list
+
+# list
 * a
 * b
 
 
-list2
-1. Item 1
-2. Item 2
-3. Item 3
+# ordered list2
+1. a
+2. b
+3. c
 
+
+
+
+
+# link
 link [name then url](github.com) 
 
 
- 
 # code
 
 ```java
@@ -54,8 +59,6 @@ user_name  | age
 ------------- | -------------
 david  | 32
 rose  | 12
-
-
 
 
 
