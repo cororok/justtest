@@ -8,3 +8,5 @@ public class Class2 {
 // note 4
 // note 5
 }
+
+// changed in master
